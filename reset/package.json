@@ -1,0 +1,14 @@
+{
+  "name": "@npm/css-reset",
+  "version": "1.0.0",
+  "description": "Reset stylesheet",
+  "main": "index.js",
+  "scripts": {
+    "build": "stylus ."
+  },
+  "author": "npm, Inc.",
+  "license": "ISC",
+  "devDependencies": {
+    "stylus": "^0.51.1"
+  }
+}
